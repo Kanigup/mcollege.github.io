@@ -22,6 +22,6 @@ pipeline {
                     xcopy /s /e /y "C:\\Users\\kg191\\Desktop" "C:\\Apache24\\htdocs"
                 '''
             }
-        }
-    }
+    }
+  }
 }
